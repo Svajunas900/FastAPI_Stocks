@@ -1,5 +1,5 @@
-##Description
-This is a simple example of FastAPI framework with authentication and asyncio library making requests to get stock data simultaneously
+## Description 
+This is a simple example of FastAPI framework with authentication and asyncio library making requests to get stock data simultaneously <br/>
 
 ## HOW TO SECTION:
 
